@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "userName": "4dM1n",
+      "email": "admi@gmail.com",
+      "password": "$2a$10$ASsPF4I07gNtn.ht1wB13.QtWTp2jkxRHHUs9x31WPxdbmfO5AHLi",
+      "name": "Admin",
+      "surName": "Everis",
+      "saltSecret": "$2a$10$ASsPF4I07gNtn.ht1wB13."
+    }
+  ]
+}
